@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Affinity lock files
+*.af~lock~
