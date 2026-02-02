@@ -2,31 +2,24 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 160">
   <defs>
     <style>
-      .cls-1, .cls-2, .cls-3 {
+      .cls-1 {
         fill: none;
       }
 
       .cls-2 {
-        stroke: #000;
-        stroke-width: 9.5px;
-      }
-
-      .cls-2, .cls-3 {
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-
-      .cls-4 {
         clip-path: url(#clippath-1);
       }
 
-      .cls-5 {
-        fill: #fff;
+      .cls-3 {
+        letter-spacing: -.02em;
       }
 
-      .cls-3 {
-        stroke: #fff;
-        stroke-width: 7px;
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
       }
 
       .cls-6 {
@@ -34,51 +27,31 @@
       }
 
       .cls-7 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-8 {
-        letter-spacing: -.01em;
-      }
-
-      .cls-9 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-10 {
         font-family: Manrope-SemiBold, Manrope;
         font-size: 92.22px;
         font-variation-settings: 'wght' 600;
         font-weight: 600;
       }
 
-      .cls-11 {
+      .cls-8 {
         letter-spacing: .02em;
       }
 
-      .cls-12 {
+      .cls-9 {
         clip-path: url(#clippath);
       }
     </style>
     <clipPath id="clippath">
-      <rect class="cls-1" x="0" y="0" width="160" height="160"/>
+      <rect class="cls-1" y="0" width="160" height="160"/>
     </clipPath>
     <clipPath id="clippath-1">
-      <rect class="cls-1" x="0" y="0" width="160" height="160"/>
+      <rect class="cls-1" y="0" width="160" height="160"/>
     </clipPath>
   </defs>
-  <g class="cls-12">
-    <rect class="cls-5" x="0" y="0" width="160" height="160"/>
-    <g class="cls-4">
-      <path d="M20,62c9.94,0,18,8.06,18,18s-8.06,18-18,18v12c0,6.63,5.37,12,12,12h96c6.63,0,12-5.37,12-12v-12c-9.94,0-18-8.06-18-18s8.06-18,18-18v-12c0-6.63-5.37-12-12-12H32c-6.63,0-12,5.37-12,12v12Z"/>
-      <path class="cls-2" d="M20,62c9.94,0,18,8.06,18,18s-8.06,18-18,18v12c0,6.63,5.37,12,12,12h96c6.63,0,12-5.37,12-12v-12c-9.94,0-18-8.06-18-18s8.06-18,18-18v-12c0-6.63-5.37-12-12-12H32c-6.63,0-12,5.37-12,12v12Z"/>
+  <text class="cls-7" transform="translate(165.75 107.89)"><tspan x="0" y="0">op</tspan><tspan class="cls-6" x="112.27" y="0">e</tspan><tspan x="165.89" y="0">nb</tspan><tspan class="cls-4" x="278.67" y="0">o</tspan><tspan class="cls-3" x="333.49" y="0">x</tspan><tspan x="381.91" y="0">o</tspan><tspan class="cls-8" x="438.11" y="0">ff</tspan><tspan x="503.81" y="0">i</tspan><tspan class="cls-5" x="528.21" y="0">c</tspan><tspan x="579.25" y="0">e</tspan></text>
+  <g class="cls-9">
+    <g class="cls-2">
+      <path d="M140,66.75c2.62,0,4.75-2.13,4.75-4.75v-12c0-9.24-7.51-16.75-16.75-16.75h-15.26c0,.09.03.18.03.27v18.09c0,1.93-1.56,3.49-3.49,3.5h-.01c-1.92,0-3.49-1.55-3.5-3.47l-.04-5.6v-12.51c0-.09.02-.18.03-.27H32c-9.24,0-16.75,7.51-16.75,16.75v12c0,2.62,2.13,4.75,4.75,4.75,7.31,0,13.25,5.94,13.25,13.25s-5.94,13.25-13.25,13.25c-2.62,0-4.75,2.13-4.75,4.75v12c0,9.24,7.51,16.75,16.75,16.75h73.75l-.03-4.13v-13.57c0-1.93,1.57-3.5,3.5-3.5s3.54,1.57,3.54,3.5v17.7h15.24c9.24,0,16.75-7.51,16.75-16.75v-12c0-2.62-2.13-4.75-4.75-4.75-7.31,0-13.25-5.94-13.25-13.25s5.94-13.25,13.25-13.25M112.77,89.05c0,1.93-1.56,3.49-3.48,3.5h-.02c-1.92,0-3.48-1.55-3.5-3.47l-.05-5.4v-12.08c0-1.93,1.57-3.5,3.5-3.5s3.55,1.57,3.55,3.5v17.45Z"/>
     </g>
-    <polygon class="cls-5" points="109.22 33.52 109.22 46.01 109.26 51.61 109.26 33.52 109.22 33.52"/>
-    <polygon class="cls-3" points="109.26 51.61 109.22 46.01 109.22 33.52 109.26 33.52 109.26 51.61"/>
-    <polygon class="cls-5" points="109.22 71.61 109.22 83.65 109.27 89.05 109.27 71.61 109.22 71.61"/>
-    <polygon class="cls-3" points="109.27 89.05 109.22 83.65 109.22 71.61 109.27 71.61 109.27 89.05"/>
-    <polygon class="cls-5" points="109.22 109.05 109.22 122.6 109.26 128.67 109.26 109.05 109.22 109.05"/>
-    <polygon class="cls-3" points="109.26 128.67 109.22 122.6 109.22 109.05 109.26 109.05 109.26 128.67"/>
   </g>
-  <text class="cls-10" transform="translate(165.75 107.89)"><tspan x="0" y="0">op</tspan><tspan class="cls-9" x="112.27" y="0">e</tspan><tspan x="165.89" y="0">nb</tspan><tspan class="cls-7" x="278.67" y="0">o</tspan><tspan class="cls-6" x="333.49" y="0">x</tspan><tspan x="381.91" y="0">o</tspan><tspan class="cls-11" x="438.11" y="0">ff</tspan><tspan x="503.81" y="0">i</tspan><tspan class="cls-8" x="528.21" y="0">c</tspan><tspan x="579.25" y="0">e</tspan></text>
 </svg>
